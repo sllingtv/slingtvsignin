@@ -103,6 +103,13 @@ Tips for Secure Sling TV Sign In
 * Keep your Sling TV app updated.
 * Change your password if you notice suspicious account activity.
 
+`Sling TV Login <https://slinggtv-sling-tv-login-account.readthedocs-hosted.com/en/latest/>`_
+ 
+`Sling TV Activation Code <https://sliingtv.inblog.io/sling-tv-activation-code>`_
+ 
+`Sling TV Sign In Account <https://slingtvv.mystrikingly.com/>`_
+
+
 Conclusion
 ----------
 
