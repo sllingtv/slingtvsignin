@@ -1,4 +1,4 @@
-Sling TV Sign In Account
+How to Sign In Sling TV Account?
 ========================
 
 Signing in to your Sling TV account gives you access to live TV, sports, news, movies, and on-demand entertainment. 
